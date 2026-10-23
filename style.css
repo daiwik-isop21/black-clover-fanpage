@@ -1,0 +1,54 @@
+h1 {
+   font-size: 3rem;
+   color: white;
+   margin-left: 4rem;
+   padding: 2rem;
+}
+p {
+    padding-top: 2rem;
+  border-top : 3px solid white;
+  color: white;
+  font-size: 2rem;
+  margin-left: 4rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}   
+
+.giude{
+    width: 30rem;
+    height: 25rem;
+    background-color: white;
+    
+}
+
+.tk{
+    width: 60rem;
+    height: 15rem;
+    margin-bottom: 12rem;
+}
+
+.tk2{
+    border-bottom: 3px solid white;
+
+
+}
+
+.tk3{
+    color: white;
+  font-size: 2rem;
+  margin-left: 3rem;
+  padding-top: 2rem;
+
+}
+
+.tk4{
+    margin-left: 5rem;
+
+}
+
+.dfe {
+    transform: rotate(20deg);
+}
+.tk5 {
+    transform: rotate(-15deg);
+}
